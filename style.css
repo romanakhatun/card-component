@@ -85,9 +85,10 @@ html {
 
 /* ...Card 3... */
 .card3 {
-  background-color: hsl(179, 100%, 13%);
+  /* background-color: hsl(179, 100%, 13%); */
   border-top-right-radius: 15px;
   border-bottom-right-radius: 15px;
+  background: #000;
 }
 .card3 button {
   color: hsl(179, 100%, 13%);
