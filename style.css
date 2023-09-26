@@ -92,3 +92,12 @@ html {
 .card3 button {
   color: hsl(179, 100%, 13%);
 }
+
+/* @media only screen and (max-width: 400px) {
+  #main {
+  }
+
+  #cards {
+    flex-direction: column;
+  }
+} */
